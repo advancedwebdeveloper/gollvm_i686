@@ -1,6 +1,6 @@
 [submodule "gollvm"]
 	path = gollvm
-	url = https://go.googlesource.com/gollvm
+	url = https://go.googlesource.com/gollvm/
 [submodule "gofrontend"]
 	path = gollvm/gofrontend
 	url = https://go.googlesource.com/gofrontend
