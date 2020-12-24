@@ -1,0 +1,12 @@
+[submodule "gollvm"]
+	path = gollvm
+	url = https://go.googlesource.com/gollvm
+[submodule "gofrontend"]
+	path = gollvm/gofrontend
+	url = https://go.googlesource.com/gofrontend
+[submodule "libffi"]
+  path = gollvm/libgo/libffi
+  url = https://github.com/libffi/libffi.git
+[submodule "libbacktrace"]
+  path = gollvm/libgo/libbacktrace
+  url = https://github.com/ianlancetaylor/libbacktrace.git
